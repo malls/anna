@@ -13,6 +13,7 @@ html, body {
     min-width: 100%;
     min-height: 100%;
     transform: translateX(calc((100% - 100vw) / 2));
+	cursor: pointer;
 }
 
 @media (max-width: 480px) {
